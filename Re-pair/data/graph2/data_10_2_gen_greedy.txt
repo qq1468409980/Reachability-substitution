@@ -1,0 +1,21 @@
+10
+s2 t10
+s5 t10
+s9 t10
+t10 t7
+s2 t0
+s4 t1
+s4 t0
+s4 t5
+s4 t6
+s7 t5
+s7 t6
+s6 t3
+s6 t6
+s3 t8
+s3 t9
+s3 t5
+s0 t2
+s0 t0
+s8 t9
+s1 t1

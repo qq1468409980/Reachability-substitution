@@ -1,0 +1,216 @@
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_1_genGraph.txt
+run time: 1.8174858093261719
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_1_oriGraph.txt
+run time: 21.621097803115845
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_2_genGraph.txt
+run time: 1.560394048690796
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_2_oriGraph.txt
+run time: 22.844316005706787
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_3_genGraph.txt
+run time: 1.2513980865478516
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_3_oriGraph.txt
+run time: 21.341674089431763
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_4_genGraph.txt
+run time: 1.8161439895629883
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_4_oriGraph.txt
+run time: 22.506706953048706
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_5_genGraph.txt
+run time: 1.7407128810882568
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_5_oriGraph.txt
+run time: 22.60486602783203
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_6_genGraph.txt
+run time: 1.7583630084991455
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_6_oriGraph.txt
+run time: 23.157483100891113
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_7_genGraph.txt
+run time: 1.859605073928833
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_7_oriGraph.txt
+run time: 34.14846396446228
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_8_genGraph.txt
+run time: 1.7828359603881836
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_8_oriGraph.txt
+run time: 38.35783386230469
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_9_genGraph.txt
+run time: 1.0566279888153076
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_1000_9_oriGraph.txt
+run time: 29.014705181121826
+/Users/songtianqi/vscode/data_real/graph/data_real_10_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_1_genGraph.txt
+run time: 0.0067708492279052734
+/Users/songtianqi/vscode/data_real/graph/data_real_10_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_1_oriGraph.txt
+run time: 0.0036590099334716797
+/Users/songtianqi/vscode/data_real/graph/data_real_10_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_2_genGraph.txt
+run time: 0.0026450157165527344
+/Users/songtianqi/vscode/data_real/graph/data_real_10_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_2_oriGraph.txt
+run time: 0.004042863845825195
+/Users/songtianqi/vscode/data_real/graph/data_real_10_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_3_genGraph.txt
+run time: 0.0028269290924072266
+/Users/songtianqi/vscode/data_real/graph/data_real_10_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_3_oriGraph.txt
+run time: 0.0012099742889404297
+/Users/songtianqi/vscode/data_real/graph/data_real_10_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_4_genGraph.txt
+run time: 0.0023009777069091797
+/Users/songtianqi/vscode/data_real/graph/data_real_10_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_4_oriGraph.txt
+run time: 0.003754854202270508
+/Users/songtianqi/vscode/data_real/graph/data_real_10_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_5_genGraph.txt
+run time: 0.002393007278442383
+/Users/songtianqi/vscode/data_real/graph/data_real_10_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_5_oriGraph.txt
+run time: 0.0013070106506347656
+/Users/songtianqi/vscode/data_real/graph/data_real_10_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_6_genGraph.txt
+run time: 0.003445863723754883
+/Users/songtianqi/vscode/data_real/graph/data_real_10_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_6_oriGraph.txt
+run time: 0.0027260780334472656
+/Users/songtianqi/vscode/data_real/graph/data_real_10_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_7_genGraph.txt
+run time: 0.0023589134216308594
+/Users/songtianqi/vscode/data_real/graph/data_real_10_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_7_oriGraph.txt
+run time: 0.0024271011352539062
+/Users/songtianqi/vscode/data_real/graph/data_real_10_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_8_genGraph.txt
+run time: 0.0025429725646972656
+/Users/songtianqi/vscode/data_real/graph/data_real_10_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_8_oriGraph.txt
+run time: 0.0035538673400878906
+/Users/songtianqi/vscode/data_real/graph/data_real_10_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_9_genGraph.txt
+run time: 0.0038611888885498047
+/Users/songtianqi/vscode/data_real/graph/data_real_10_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_10_9_oriGraph.txt
+run time: 0.0023369789123535156
+/Users/songtianqi/vscode/data_real/graph/data_real_200_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_1_genGraph.txt
+run time: 0.031026124954223633
+/Users/songtianqi/vscode/data_real/graph/data_real_200_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_1_oriGraph.txt
+run time: 0.28331613540649414
+/Users/songtianqi/vscode/data_real/graph/data_real_200_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_2_genGraph.txt
+run time: 0.02862381935119629
+/Users/songtianqi/vscode/data_real/graph/data_real_200_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_2_oriGraph.txt
+run time: 0.2873198986053467
+/Users/songtianqi/vscode/data_real/graph/data_real_200_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_3_genGraph.txt
+run time: 0.02411198616027832
+/Users/songtianqi/vscode/data_real/graph/data_real_200_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_3_oriGraph.txt
+run time: 0.2549400329589844
+/Users/songtianqi/vscode/data_real/graph/data_real_200_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_4_genGraph.txt
+run time: 0.028001070022583008
+/Users/songtianqi/vscode/data_real/graph/data_real_200_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_4_oriGraph.txt
+run time: 0.25060606002807617
+/Users/songtianqi/vscode/data_real/graph/data_real_200_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_5_genGraph.txt
+run time: 0.027843952178955078
+/Users/songtianqi/vscode/data_real/graph/data_real_200_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_5_oriGraph.txt
+run time: 0.24467086791992188
+/Users/songtianqi/vscode/data_real/graph/data_real_200_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_6_genGraph.txt
+run time: 0.027332067489624023
+/Users/songtianqi/vscode/data_real/graph/data_real_200_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_6_oriGraph.txt
+run time: 0.22747802734375
+/Users/songtianqi/vscode/data_real/graph/data_real_200_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_7_genGraph.txt
+run time: 0.026017189025878906
+/Users/songtianqi/vscode/data_real/graph/data_real_200_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_7_oriGraph.txt
+run time: 0.2588798999786377
+/Users/songtianqi/vscode/data_real/graph/data_real_200_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_8_genGraph.txt
+run time: 0.02523517608642578
+/Users/songtianqi/vscode/data_real/graph/data_real_200_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_8_oriGraph.txt
+run time: 0.23119616508483887
+/Users/songtianqi/vscode/data_real/graph/data_real_200_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_9_genGraph.txt
+run time: 0.029165983200073242
+/Users/songtianqi/vscode/data_real/graph/data_real_200_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_200_9_oriGraph.txt
+run time: 0.27171921730041504
+/Users/songtianqi/vscode/data_real/graph/data_real_500_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_1_genGraph.txt
+run time: 0.1930389404296875
+/Users/songtianqi/vscode/data_real/graph/data_real_500_1_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_1_oriGraph.txt
+run time: 1.886965036392212
+/Users/songtianqi/vscode/data_real/graph/data_real_500_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_2_genGraph.txt
+run time: 0.19841480255126953
+/Users/songtianqi/vscode/data_real/graph/data_real_500_2_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_2_oriGraph.txt
+run time: 1.6932308673858643
+/Users/songtianqi/vscode/data_real/graph/data_real_500_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_3_genGraph.txt
+run time: 0.20509910583496094
+/Users/songtianqi/vscode/data_real/graph/data_real_500_3_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_3_oriGraph.txt
+run time: 1.6435260772705078
+/Users/songtianqi/vscode/data_real/graph/data_real_500_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_4_genGraph.txt
+run time: 0.19094300270080566
+/Users/songtianqi/vscode/data_real/graph/data_real_500_4_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_4_oriGraph.txt
+run time: 1.67696213722229
+/Users/songtianqi/vscode/data_real/graph/data_real_500_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_5_genGraph.txt
+run time: 0.2800447940826416
+/Users/songtianqi/vscode/data_real/graph/data_real_500_5_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_5_oriGraph.txt
+run time: 1.7248828411102295
+/Users/songtianqi/vscode/data_real/graph/data_real_500_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_6_genGraph.txt
+run time: 0.19600987434387207
+/Users/songtianqi/vscode/data_real/graph/data_real_500_6_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_6_oriGraph.txt
+run time: 1.7495100498199463
+/Users/songtianqi/vscode/data_real/graph/data_real_500_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_7_genGraph.txt
+run time: 0.22667884826660156
+/Users/songtianqi/vscode/data_real/graph/data_real_500_7_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_7_oriGraph.txt
+run time: 1.5735909938812256
+/Users/songtianqi/vscode/data_real/graph/data_real_500_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_8_genGraph.txt
+run time: 0.20546603202819824
+/Users/songtianqi/vscode/data_real/graph/data_real_500_8_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_8_oriGraph.txt
+run time: 2.0331270694732666
+/Users/songtianqi/vscode/data_real/graph/data_real_500_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_9_genGraph.txt
+run time: 0.19037914276123047
+/Users/songtianqi/vscode/data_real/graph/data_real_500_9_oriGraph.txt
+/Users/songtianqi/vscode/data_real/graph/data_real_500_9_oriGraph.txt
+run time: 1.8299951553344727

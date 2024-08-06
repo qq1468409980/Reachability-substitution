@@ -1,0 +1,25 @@
+10
+s0 t4
+s0 t6
+s1 t3
+s1 t4
+s1 t5
+s1 t8
+s2 t7
+s2 t9
+s3 t0
+s3 t1
+s4 t0
+s4 t5
+s4 t9
+s5 t4
+s5 t7
+s5 t8
+s6 t3
+s6 t7
+s7 t2
+s7 t8
+s7 t9
+s8 t1
+s8 t5
+s9 t7

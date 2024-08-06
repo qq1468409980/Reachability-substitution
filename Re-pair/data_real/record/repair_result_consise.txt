@@ -1,0 +1,144 @@
+data_real_10_8.txt
+Dictionary size:7
+Edges count :   25
+
+data_real_10_9.txt
+Dictionary size:5
+Edges count :   20
+
+data_real_500_8.txt
+Dictionary size:861
+Edges count :   6500
+
+data_real_500_9.txt
+Dictionary size:847
+Edges count :   6373
+
+data_real_200_6.txt
+Dictionary size:185
+Edges count :   1214
+
+data_real_1000_2.txt
+Dictionary size:2986
+Edges count :   22289
+
+data_real_1000_3.txt
+Dictionary size:3019
+Edges count :   22493
+
+data_real_200_7.txt
+Dictionary size:192
+Edges count :   1273
+
+data_real_200_5.txt
+Dictionary size:190
+Edges count :   1277
+
+data_real_1000_1.txt
+Dictionary size:2998
+Edges count :   22459
+
+data_real_200_4.txt
+Dictionary size:197
+Edges count :   1278
+
+data_real_1000_4.txt
+Dictionary size:3017
+Edges count :   22563
+
+data_real_200_1.txt
+Dictionary size:198
+Edges count :   1288
+
+data_real_1000_5.txt
+Dictionary size:3012
+Edges count :   22492
+
+data_real_1000_7.txt
+Dictionary size:3108
+Edges count :   23040
+
+data_real_200_3.txt
+Dictionary size:194
+Edges count :   1254
+
+data_real_200_2.txt
+Dictionary size:201
+Edges count :   1281
+
+data_real_1000_6.txt
+Dictionary size:3028
+Edges count :   22504
+
+data_real_1000_8.txt
+Dictionary size:3021
+Edges count :   22539
+
+data_real_1000_9.txt
+Dictionary size:2957
+Edges count :   22249
+
+data_real_200_9.txt
+Dictionary size:199
+Edges count :   1342
+
+data_real_200_8.txt
+Dictionary size:175
+Edges count :   1211
+
+data_real_10_7.txt
+Dictionary size:6
+Edges count :   20
+
+data_real_500_4.txt
+Dictionary size:820
+Edges count :   6293
+
+data_real_500_5.txt
+Dictionary size:831
+Edges count :   6401
+
+data_real_10_6.txt
+Dictionary size:6
+Edges count :   25
+
+data_real_10_4.txt
+Dictionary size:4
+Edges count :   18
+
+data_real_500_7.txt
+Dictionary size:814
+Edges count :   6262
+
+data_real_500_6.txt
+Dictionary size:839
+Edges count :   6341
+
+data_real_10_5.txt
+Dictionary size:5
+Edges count :   21
+
+data_real_10_1.txt
+Dictionary size:6
+Edges count :   24
+
+data_real_500_2.txt
+Dictionary size:841
+Edges count :   6395
+
+data_real_500_3.txt
+Dictionary size:847
+Edges count :   6380
+
+data_real_10_2.txt
+Dictionary size:4
+Edges count :   20
+
+data_real_500_1.txt
+Dictionary size:845
+Edges count :   6484
+
+data_real_10_3.txt
+Dictionary size:7
+Edges count :   26
+
